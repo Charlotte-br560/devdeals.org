@@ -170,6 +170,7 @@ Table of Contents
   * [OpenPhone](https://www.openphone.co/) - All-in-one phone system. 20% off any plan for 6 months with ```DEEL```.
   * [Retool](https://retool.typeform.com/to/qGcaOOHW?typeform-source=devdeals.org) - Build custom internal tools remarkably fast. $1,200 for Retool Cloud with ```DEVDEALS```.
   * [Shopify](https://www.shopify.com/free-trial/secret-shopify) - Website building platform. 2 months free with ```SECRET```.
+  * [Crawlbase](https://crawlbase.com/) - Crawlbase, a web scraping and web crawling tool, extends a generous offer to students: 5000 free successful requests over three months. To seize this opportunity, simply apply the discount code "SDNT2023".
 ## Search
   * [Algolia](https://www.algolia.com/industries-and-solutions/startups/?utm_source=devdeals&tf_subject=devdeals.org&tf_description=N/A) - Search-as-a-Service platform. $10,000 in credits valid for 1 year with ```DEVDEALS```.
 ## Security & compliance
