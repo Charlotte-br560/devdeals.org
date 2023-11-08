@@ -165,6 +165,7 @@ Table of Contents
   * [CodeLingo](https://notebooks.codelingo.io/team/get-started) - Code notes. 20% discount with ```LAUNCH20```.
   * [Tara AI](http://bit.ly/deel-tara) - Helps engineering teams using sprints, docs & tasks. 6 months of premium for free with ```DEEL```.
 ## SaaS tools and Services
+ * [Crawlbase](https://crawlbase.com/) - Crawlbase, a leading web scraping tool, is offering students 5000 free requests over three months. Use code "SDNT2023" to seize this opportunity.
   * [Certn](https://try.certn.co/deel-landing-page) - Smarter background checks for all. 15% off all checks with ```DEEL```.
   * [Memberstack](https://airtable.com/shrN4n9XnJnJHmctl) - No-code user accounts and online payment services. 6 months free on Pro Plan with ```SECRET```.
   * [OpenPhone](https://www.openphone.co/) - All-in-one phone system. 20% off any plan for 6 months with ```DEEL```.
