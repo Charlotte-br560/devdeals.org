@@ -109,6 +109,7 @@ Table of Contents
   * [Ramp](https://ramp.com/partners/deel) - Corporate cards and finance platform. $1000 Amazon Gift Card with ```DEEL```.
   * [Vouch Insurance](https://www.vouch.us/partners/carta?utm_source=partner&utm_medium=perk&utm_campaign=Carta&utm_content=StartupStack) - Insurance for venture backed companies. Save up to 25% on coverage with ```CARTA```.
   * [Xero](http://www.xero.com/signup/?xtid=x30deel) - Online accounting software. 30-day free trial with ```X30DEEL```.
+  * [Illumeo](https://www.illumeo.com/) - Illumeo is offering: 'Save up to 20% off on your CPE this holiday season.
 ## Forms
   * [Tally](https://tally.so/r/wb9b23) - Create forms efficiently, in just a few seconds.. Get 50% off Tally Pro for 1 year with ```JOINSECRET```.
   * [Typeform](https://www.typeform.com/) - Build beautiful, interactive forms. 30% off Professional or Premium with ```LETSDEEL_30OFF```.
